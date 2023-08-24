@@ -23,6 +23,14 @@
             <artifactId>amqp-client</artifactId>
             <version>5.14.0</version> <!-- 使用你想要的版本 -->
         </dependency>
+
+        <dependency>
+            <groupId>org.elasticsearch.client</groupId>
+            <artifactId>elasticsearch-rest-high-level-client</artifactId>
+            <version>7.15.0</version> <!-- 根据实际版本进行调整 -->
+        </dependency>
     </dependencies>
+
+
 
 </project>
